@@ -1,0 +1,66 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+}
+.general {
+  background-color: hsl(216, 50%, 16%);
+  width: 320px;
+  height: auto;
+  align-items: center;
+  margin: 100px auto;
+  padding: 15px;
+  border-radius: 10px;
+}
+img {
+  border-radius: 10px;
+}
+h3 {
+  color: hsl(0, 0%, 100%);
+  font-family: "Outfit", sans-serif;
+}
+p {
+  color: hsl(215, 51%, 70%);
+ 
+}
+.eth {
+  color: hsl(178, 100%, 50%);
+  font-family: "Outfit", sans-serif;
+  font-size: 12px;
+}
+.clock {
+  color: hsl(215, 51%, 70%); 
+}
+.sat {
+  display: flex;
+  
+}
+.ikone {
+  display: flex;
+  justify-content: space-between;
+}
+.line {
+  border-bottom: 1px solid white;
+  opacity: 20%;
+  padding: 10px;
+}
+.biber {
+  box-sizing: border-box;
+  border-radius: 100%;
+  border: 1px solid white;
+  width: 25px;
+  height: 25px;
+  position: relative;
+  top: 15px;
+}
+.white {
+  color: white;
+}
+.creation {
+  text-align: center;
+  text-indent: 20px;
+  display: inline-flex;
+  }
+.biber-text {
+  position: relative;
+  left: -10px;
+}
+
